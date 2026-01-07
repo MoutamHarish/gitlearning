@@ -9,3 +9,4 @@ git restore -unstaged file_name:gives the restoration of the unstaged/uncommited
 git stash :keeping files somewhre else when we want them we will get that back by "git stash pop" command
 git stash clear :to clear/delete the files in the background
 git fetch :to fetch the changes
+git remote add origin "your repo link" :to add our upstream link
